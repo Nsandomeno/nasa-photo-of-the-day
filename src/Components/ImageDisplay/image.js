@@ -1,4 +1,5 @@
 import React, {useState} from "react";
+import "../../../src/App.css";
 
 export function MainImg(props){
 
