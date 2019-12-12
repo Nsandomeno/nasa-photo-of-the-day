@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import "../../../src/App.css";
+import "../../App.css";
 
 export function MainImg(props){
 
